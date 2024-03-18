@@ -2,6 +2,7 @@
 # Computer Vision based virtual mouse cursor using hand gesture
 
 This Python project  allows you to control your laptop mouse using a webcam. It utilizes the Mediapipe and OpenCV libraries to track hand movements and translate them into mouse actions.
+Project Video:- https://drive.google.com/file/d/1Q10bmgMM8FtCHGE8HCA9mtNW9oKjreCU/view?usp=sharing
 
 ## Installation
 1. Make sure you have Python installed (version 3.7.3) on your machine.
